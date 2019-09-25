@@ -1,5 +1,7 @@
 # Rocket Programmer
 
+This game was the result of 15 hours of programming at ISU's hackathon Idahack.
+
 This is a game built in the **Unity** engine with **C#**. It is a two player game that assigns a tank to program to each player. On the players turn, a terminal appears where they must type in a script to help their rocket navigate through the terrain to hit the other player. The syntax for the player's scripts are written with one statement on each line. 
 
 The syntax for each line are as follows:
